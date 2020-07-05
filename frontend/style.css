@@ -1,0 +1,37 @@
+/* Autor: Elikson Bastos Tavares */
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+.form-control {
+    background-color: black;
+    color: white;
+    border-color: rgb(10, 10, 10);
+}
+
+.btn {
+    background-color: yellow;
+    color: black;
+    display: flex;
+}
+
+.img-logo {
+    width: 130px;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(15, 15, 15);
+    padding: 5px;
+}
+
+.img-batman {
+    width: 100%;
+    margin: 5px;
+}
+
+.container {
+    margin-top: 15px;
+}
